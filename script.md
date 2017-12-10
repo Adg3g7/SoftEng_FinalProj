@@ -25,20 +25,20 @@
 * Cut to touch person: Person 1 steals Person 2’s phone. Person 2 notices Person 1 running away and yells “Hey that’s my phone” While running away,  Person 1 bumps into Touch
       * Person and the Touch Person forces Person 1 to feel guilty and return the phone.
 
-Some sort of title
+* Some sort of title
 
-Slight: “There’s something off about this school”
+* Slight: “There’s something off about this school”
 
-Cuts to the villains doing something shady 
+* Cuts to the villains doing something shady 
 
-Video of Sight putting a poster up about the club
+*Video of Sight putting a poster up about the club
 
-Makes a club titled something creative to figure out what is going on with the school
-The others show up
-They meet yay
+* Makes a club titled something creative to figure out what is going on with the school
+	* The others show up
+	* They meet yay
 
-Some more villian footage
-They briefly describe their plan
+* Some more villian footage
+* They briefly describe their plan
 
 ###### Closing scene: running to battle
 
