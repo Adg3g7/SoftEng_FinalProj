@@ -31,7 +31,7 @@
 
 * Cuts to the villains doing something shady 
 
-*Video of Sight putting a poster up about the club
+* Video of Sight putting a poster up about the club
 
 * Makes a club titled something creative to figure out what is going on with the school
 	* The others show up
