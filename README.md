@@ -1,3 +1,4 @@
-# SoftEng_FinalProj
+# 5 senses superheroes
+by: Ally Dolan, Adam Goff, Tiara Jarrett, and Jessica Sellers
 
-5 senses superheroes 
+website link: http://ec2-54-91-111-24.compute-1.amazonaws.com/Superheroes/home.html
