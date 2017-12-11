@@ -1,7 +1,8 @@
 # The Super Senses
 
-by: Ally Dolan, Adam Goff, Tiara Jarrett, and Jessica Sellers
+#### by: Ally Dolan, Adam Goff, Tiara Jarrett, and Jessica Sellers
 ---
+
 ## What is The Super Senses?
 
 The Super Senses is the final project for our Software Engineering Class where we used the SCRUM process to create a trailer for a movie and a website to accompany it. It is titled "The Super Senses" because it is based on superheroes that have one sense more powerful than normal each.
