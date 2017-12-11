@@ -1,5 +1,7 @@
 # The Super Senses
 
+![SuperSenses Title Card](SuperTitle.png)
+
 #### by: Ally Dolan, Adam Goff, Tiara Jarrett, and Jessica Sellers
 ---
 
