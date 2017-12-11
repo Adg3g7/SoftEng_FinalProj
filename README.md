@@ -23,7 +23,7 @@
 
 ## Process of completing The Super Senses
 
-#### First Sprint:
+#### First Sprint - Planning Sprint:
 
 ###### To begin the project, we started off listing and deciding on project ideas. Our top 5 topic selections can be seen [here.](ideas.md) 
 
@@ -35,10 +35,38 @@
 
 ###### Once we had an idea what to make the trailer after we began work on the script of the trailer. The alpha build of the script can be viewed [here.](InitialScript.md)
 
-###### The script took many revisions before we settled on a finalized product. Our finalized script can be viewed [here.](FinalScript.md)
+###### The script took many revisions before we settled on a finalized product and changed a bit during filming as well. Our finalized script can be viewed [here.](FinalScript.md)
 
 ---
 
-#### Second Sprint:
+#### Second Sprint - Filming and Editing Sprint:
 
+###### To start the second sprint we had to get and organize volunteer actors. (Thanks to members of the Marching Mizzou Trombone Section) This involved making a schedule of filming based on availability of the actors, and film crew. We were able to split them into two blocks of filming.
 
+###### Next came the filming. We filmed the two different blocks of actors in the same week making sure to get enough footage to cut around in order to film at least a minute of footage while following the script.
+
+###### Finally, we had to edit the footage into a trailer. Total editing time for the trailer was around 7 hours including some Photoshop work to .
+
+---
+
+#### Third Sprint - Website Development and Behind the Scenes:
+
+###### With remaining footage we decided to make a behind the scenes video and director's cut that we included to be used on the website. Total editing time took around 3 hours for the two videos.
+
+###### Work then began on the website.
+
+###### Finally, we started cleaning up the project repo, and worked on the video presentation
+
+---
+
+## Special Thanks
+
+#### Actors:
+
+###### Sight - Calvin Haux
+###### Smell - Adam Arand
+###### Sound - Molly White
+###### Taste - Kennedy Unthank
+###### Touch - Sarah Moon
+###### Allergy - Jacob Berns
+###### Vitamin Deficiency - Sky Winholtz
