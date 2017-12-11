@@ -18,6 +18,7 @@ Cut to Sound walking in a building with camera walking backwards with her - *cha
 
 Cut to Taste drinking at a water fountain. He is able to track where someone goes by tasting the water?
 > "The bad guys went that way"
+
 *fade out*
 
 Cut to Touch in the middle of a lawn or commons. She leans down to a dead leaf while the camera zooms into her hand.
@@ -35,6 +36,7 @@ Cut to the villains writing bad things on a chalk board and circling their evil 
 
 Cut to the villains talking about an evil thing to do.
 *fade out*
+>We should infect campus next!
 
 **Will the heroes take responsibility?**
 *Funny music starts*
