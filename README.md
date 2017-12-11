@@ -5,14 +5,15 @@
 
 ## What is The Super Senses?
 
+
 The Super Senses is the final project for our Software Engineering Class where we used the SCRUM process to create a trailer for a movie and a website to accompany it. It is titled "The Super Senses" because it is based on superheroes that have one sense more powerful than normal each.
 ---
 
-[Click here to visit the website](http://ec2-54-91-111-24.compute-1.amazonaws.com/Superheroes/home.html)
+#### [Click here to visit the website](http://ec2-54-91-111-24.compute-1.amazonaws.com/Superheroes/home.html)
 
-[Click here to view the video presentation]()
+#### [Click here to view the video presentation]()
 
-[Click here to visit our axosoft site](https://tjk9b.axosoft.com/?version=full)
+#### [Click here to visit our axosoft site](https://tjk9b.axosoft.com/?version=full)
 ---
 
 ## Why we chose to do The Super Senses
