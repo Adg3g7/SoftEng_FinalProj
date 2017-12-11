@@ -1,5 +1,5 @@
-##Genre: superhero comedy? 
----------------------------
+## Genre: superhero comedy? 
+
 
 ### Shooting Locations:
       * Student Center
@@ -27,7 +27,7 @@
 
 * Some sort of title
 
-* Slight: “There’s something off about this school”
+* Sight: “There’s something off about this school”
 
 * Cuts to the villains doing something shady 
 
