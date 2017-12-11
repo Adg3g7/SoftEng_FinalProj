@@ -20,3 +20,5 @@
 ##### For our project we decided on making a trailer for a movie and a website to accompany it. Our team is all Information Technology majors, and instead of making some kind of app, we decided to use some of the skills that we have been taught in our IT classes as well as work on some skills that we might find useful post college. The making of a trailer and making of a website provided members with a compromise of being able to do media creation and website development as well as the experience of creating a topic that blended the two that we wouldn't have had the experience of previously.
 
 ## Process of completing The Super Senses
+
+##### To complete the project, we started off listing and deciding on project ideas. Our top 5 topic selections can be seen [here.](ideas.md) We then
