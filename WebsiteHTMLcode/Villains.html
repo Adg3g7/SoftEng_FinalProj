@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<style>
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial;
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    cursor: pointer;
+    font-size: 16px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: gray;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.show {
+    display: block;
+}
+    
+.title {
+    height: 425px;
+    width: 1000px;
+   padding-top: 25px;
+    padding-left: 300px;
+      }
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+@media (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+  padding: 0 16px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #555;
+}
+</style>
+</head>
+<body>
+
+<div class="navbar">
+  <a href="superSenseHome.html">The Super Senses</a>
+  <div class="dropdown">
+    <button class="dropbtn" onclick="myFunction()">Meet the Characters
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content" id="myDropdown">
+      <a href="Heroes.html">The Heroes</a>
+        <a href="Villains.html">The Villains</a>
+    </div>
+  </div>
+    <a href="behindScenes.html">Behind the Scenes</a>
+    <a href="directorCut.html">Director's Cut</a>
+    
+    
+</div>
+<h2>Meet the Bad Guys</h2>
+<br>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="villain1.png" alt="Captain Allergy" style="width:100%">
+      <div class="container">
+        <h2>Captain Allergy</h2>
+        <p>This big bad is a hot-headed male plant biologist that likes to spread his spores. He is bitter about the numerous food allergies he had as a kid and now is taking over campus with his powerful plant technology.</p>
+                    <p>
+            <b>Favorite color:</b> Green (like plants!!)
+            <br>
+            <b>Favorite food:</b> Salad
+            <br>
+            <b>Spirit Animal:</b> Grasshopper
+            <br>
+            <b>Favorite Movie:</b> Little Shop of Horrors
+        <br>
+        </p>
+        <p>Captain Allergy uses his powers to wreak havoc across the campus.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="villain2.png" alt="villain2" style="width:100%">
+      <div class="container">
+        <h2>Vincent</h2>
+        <p>This sulky boy is a power obsessed male that sucks the energy of the people around him.  He plans to take over the campus with his negative attitude.  He is Captain Allergy's evil partner. He real villain name is Vincentamin Deficientcy as his grand plan is to take away all nutrients from campus.</p>
+                    <p>
+            <b>Favorite color:</b> Gray
+            <br>
+            <b>Favorite food:</b> Oranges
+            <br>
+            <b>Spirit Animal:</b> Raccoon
+            <br>
+            <b>Favorite Movie:</b> Silence of the Lambs
+        <br>
+        </p>
+        <p>Vincent can only be defeated through wit and strategy.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+    var myDropdown = document.getElementById("myDropdown");
+      if (myDropdown.classList.contains('show')) {
+        myDropdown.classList.remove('show');
+      }
+  }
+}
+</script>
+</body>
+</html>

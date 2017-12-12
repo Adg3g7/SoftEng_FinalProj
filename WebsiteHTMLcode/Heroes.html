@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<style>
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial;
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    cursor: pointer;
+    font-size: 16px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: gray;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.show {
+    display: block;
+}
+    
+.title {
+    height: 425px;
+    width: 1000px;
+   padding-top: 25px;
+    padding-left: 300px;
+      }
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+@media (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+  padding: 0 16px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #555;
+}
+</style>
+</head>
+<body>
+
+<div class="navbar">
+  <a href="superSenseHome.html">The Super Senses</a>
+  <div class="dropdown">
+    <button class="dropbtn" onclick="myFunction()">Meet the Characters
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content" id="myDropdown">
+      <a href="Heroes.html">The Heroes</a>
+        <a href="Villains.html">The Villains</a>
+    </div>
+  </div>
+    <a href="behindScenes.html">Behind the Scenes</a>
+    <a href="directorCut.html">Director's Cut</a>
+    
+    
+</div>
+<h2>Meet Our Heroes</h2>
+<br>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="SightBack.png" alt="Samuel" style="width:100%">
+      <div class="container">
+        <h2>Samuel Saw</h2>
+        <p>Samuel is The Super Senses fearless leader. After feeling like something was off about his school he brought together The Super Senses. He is also the team's moral compass.</p>
+                    <p>
+            <b>Favorite color:</b> Safety Green
+            <br>
+            <b>Favorite food:</b> Carrots
+            <br>
+            <b>Spirit Animal:</b> Eagle
+            <br>
+            <b>Favorite Movie:</b> Interstellar
+        <br>
+        </p>
+        <p>Samuel uses his powers to seek out danger. He keeps an eye out for adventure.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="hearBack.png" alt="Hannah" style="width:100%">
+      <div class="container">
+        <h2>Hannah Heard</h2>
+        <p>Hannah has a tough exterior that is difficult to get past. She is very straight forward and at times too honest, but overall she is a compassionate friend and great listener.</p>
+                    <p>
+            <b>Favorite color:</b> White
+            <br>
+            <b>Favorite food:</b> Potatoes
+            <br>
+            <b>Spirit Animal:</b> Bat
+            <br>
+            <b>Favorite Movie:</b> Hairspray
+        <br>
+        </p>
+        <p>Hannah has an ear for hearing villains from a mile away</p>
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img src="SmellBack.png" alt="Stephen Smells" style="width:100%">
+      <div class="container">
+        <h2>Stephen Smells</h2>
+        <p>Stephen grew up with an unfortunate name. He was constantly being picked on despite not actually smelling. After High School he grew 6 inches and began working out. He tries to protect others from bullies.</p>
+                    <p>
+            <b>Favorite color:</b> Blue
+            <br>
+            <b>Favorite food:</b> Garlic Bread
+            <br>
+            <b>Spirit Animal:</b> Dog
+            <br>
+            <b>Favorite Movie:</b> Bolt
+        <br>
+        </p>
+        <p>Stephen uses his powers to sniff out the bad guys.</p>
+      </div>
+    </div>
+  </div>
+    <br>
+      <div class="column">
+    <div class="card">
+      <img src="touchBack.png" alt="Taylor Tap" style="width:100%">
+      <div class="container">
+        <h2>Taylor Tap</h2>
+        <p>Taylor is shy and sensative. Although, she is woman of few words, she can still uplift the mood of any room she is in. She feels the emotions of those around her and is a great friend to have on your side. </p>
+          
+                    <p>
+            <b>Favorite color:</b> Yellow
+            <br>
+            <b>Favorite food:</b> Cotton Candy
+            <br>
+            <b>Spirit Animal:</b> Mole
+            <br>
+            <b>Favorite Movie:</b> The Notebook
+        <br>
+        </p>
+        <p>Taylor touches the hearts of those around her.</p>
+      </div>
+    </div>
+  </div>
+          <div class="column">
+    <div class="card">
+      <img src="tasteBack.png" alt="Timothy Taste" style="width:100%">
+      <div class="container">
+        <h2>Timothy Taste</h2>
+        <p>Timothy is a little bit of an odd ball. No one is ever actually sure what he is saying or doing it, but they still love him all the same. Timothy is the most loving and selfless member of the team.</p>
+          <p>
+            <b>Favorite color:</b> Pink
+            <br>
+            <b>Favorite food:</b> Ice cream
+            <br>
+            <b>Spirit Animal:</b> Rhino
+            <br>
+            <b>Favorite Movie:</b> Cloudy With a Chance of Meatballs
+        <br>
+        </p>
+        <p>Timothy has a taste for justice. “They went that way."</p>
+          
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+    var myDropdown = document.getElementById("myDropdown");
+      if (myDropdown.classList.contains('show')) {
+        myDropdown.classList.remove('show');
+      }
+  }
+}
+</script>
+</body>
+</html>

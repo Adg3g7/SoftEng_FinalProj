@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<style>
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial;
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    cursor: pointer;
+    font-size: 16px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: gray;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.show {
+    display: block;
+}
+    
+.video {
+   max-width: 100%;
+    max-height: auto;
+
+      }
+ body {
+      position: relative; 
+  }
+   #section0 {
+       padding-top:50px;
+       height:500px;
+       color: #fff; 
+       background-color: black;} 
+      
+  #section1 {
+    padding-top:50px;
+    height:500px;
+    color: #fff; 
+    background-color: black;
+    }
+      
+  #section2 {
+      padding-top:50px;
+      height:500px;
+      color: #fff; 
+      background-color: black;}
+      
+  #section3 {
+      padding-top:50px;
+      height:500px;
+      color: #fff; 
+      background-color: black;}
+      
+  #section4 {
+      padding-top:50px;
+      height:500px;
+      color: #fff; 
+      background-color: yellow;}
+      
+  #section5 {
+      padding-top:50px;
+      height:500px;
+      color: #fff;
+      background-color: orange;}
+      
+#section6 {
+    padding-top:50px;
+    height:500px;
+    color: #fff;
+    background-color: firebrick;}
+      
+ #section7 {
+     padding-top:50px;
+     height:500px;
+     color: #fff; 
+     background-color: darkgrey; }
+      
+#section8 {
+     padding-top:50px;
+     height:500px;
+     color: #fff; 
+     background-color: paleturquoise; }
+      
+#section9 {
+     padding-top:50px;
+     height:500px;
+     color: #fff; 
+     background-color: springgreen; }
+
+.title {
+    height: 425px;
+    width: 1000px;
+   padding-top: 25px;
+    padding-left: 300px;
+      }
+</style>
+</head>
+<body>
+
+<div class="navbar">
+  <a href="superSenseHome.html">The Super Senses</a>
+  <div class="dropdown">
+    <button class="dropbtn" onclick="myFunction()">Meet the Characters
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content" id="myDropdown">
+      <a href="Heroes.html">The Heroes</a>
+        <a href="Villains.html">The Villains</a>
+    </div>
+  </div>
+    <a href="behindScenes.html">Behind the Scenes</a>
+    <a href="directorCut.html">Director's Cut</a>
+    
+    
+</div>
+<div id="video" class="video">
+  <video class="video" autoplay controls loop>
+    <source src="SuperSenses.mp4" type="video/mp4">
+    
+    </video>
+</div>
+
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+    var myDropdown = document.getElementById("myDropdown");
+      if (myDropdown.classList.contains('show')) {
+        myDropdown.classList.remove('show');
+      }
+  }
+}
+</script>
+</body>
+</html>
