@@ -55,6 +55,10 @@ s
 
 ###### Work then began on the website. Included in the website are the trailer, as well as both behind the scenes video as well as bios for the heroes and the villains.
 
+###### Media for the project can be viewed here:
+
+###### [Characters in costumes](CharacterCostumes)
+
 ###### Finally, we started cleaning up the project repo including converting documents to markdown, and worked on the video presentation
 
 ---
