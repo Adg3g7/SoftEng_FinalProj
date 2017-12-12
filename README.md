@@ -45,7 +45,7 @@ s
 
 ###### The script took many revisions before we settled on a finalized product and changed a bit during filming as well.
 
-###### Final Script](FinalScript.md)
+###### [Final Script](FinalScript.md)
 
 ---
 
