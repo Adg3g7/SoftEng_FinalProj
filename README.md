@@ -1,8 +1,12 @@
 # The Super Senses
 
+#### by: Allison Dolan - Developer,
+#### Adam Goff - Project Manager,
+#### Tiara Jarrett - Scrum Master,
+#### and Jessica Sellers - Developer
+
 ![SuperSenses Title Card](SuperTitle.png)
-s
-#### by: Ally Dolan - Developer, Adam Goff - Project Manager, Tiara Jarrett - Scrum Master, and Jessica Sellers - Developer
+
 ---
 
 ## What is The Super Senses?
@@ -12,9 +16,11 @@ s
 
 #### [Click here to visit the website](http://ec2-54-91-111-24.compute-1.amazonaws.com/SuperSenses/supersenses.html)
 
-#### [Click here to view the video presentation]()
-
 #### [Click here to visit our axosoft site](https://tjk9b.axosoft.com/?version=full)
+
+###### Our video presentation walks through the website and includes the trailer, behind the scenes and director's cut videos.
+
+#### [Click here to view the video project presentation of the website](https://drive.google.com/open?id=1yUqaI2DKhjCFsKn9nVGBKWFOJsullhUI)
 ---
 
 ## Why we chose to do The Super Senses
@@ -89,10 +95,10 @@ s
 
 #### Actors:
 
-###### Sight - Calvin Haux
-###### Smell - Adam Arand
-###### Sound - Molly White
-###### Taste - Kennedy Unthank
-###### Touch - Sarah Moon
-###### Allergy - Jacob Berns
-###### Vitamin Deficiency - Sky Winholtz
+###### Samuel Saw - Calvin Haux
+###### Stephen Smells - Adam Arand
+###### Hannah Heard - Molly White
+###### Timothy Taste - Kennedy Unthank
+###### Taylor Tap - Sarah Moon
+###### Captain Allergy - Jacob Berns
+###### Vincent - Sky Winholtz
