@@ -1,8 +1,8 @@
 # The Super Senses
 
 ![SuperSenses Title Card](SuperTitle.png)
-
-#### by: Ally Dolan, Adam Goff, Tiara Jarrett, and Jessica Sellers
+s
+#### by: Ally Dolan - Developer, Adam Goff - Project Manager, Tiara Jarrett - Scrum Master, and Jessica Sellers - Developer
 ---
 
 ## What is The Super Senses?
@@ -45,17 +45,17 @@
 
 ###### Next came the filming. We filmed the two different blocks of actors in the same week making sure to get enough footage to cut around in order to film at least a minute of footage while following the script.
 
-###### Finally, we had to edit the footage into a trailer. Total editing time for the trailer was around 7 hours including some Photoshop work to .
+###### Finally, we had to edit the footage into a trailer. Total editing time for the trailer was around 7 hours including some Photoshop work to. Video can be seen at [this youtube link](https://www.youtube.com/watch?v=eR3EEEJBTiI), or alternatively on the website.
 
 ---
 
 #### Third Sprint - Website Development and Behind the Scenes:
 
-###### With remaining footage we decided to make a behind the scenes video and director's cut that we included to be used on the website. Total editing time took around 3 hours for the two videos.
+###### With remaining footage we decided to make a behind the scenes video and director's cut that we included to be used on the website. Total editing time took around 3 hours for the two videos. The behind the scenes video featured a look at unused footage and a bit into the process of filming edited to be comedic. Behind the scenes youtube link can be watched [here](https://www.youtube.com/watch?v=9L1cMk3g_a8), or on the website. Also the director's cut which was just a quick video to share with the actors themselves which we decided to throw onto the website. That video can be seen at [this youtube link](https://www.youtube.com/watch?v=PeIQsFkPAVA)
 
-###### Work then began on the website.
+###### Work then began on the website. Included in the website are the trailer, as well as both behind the scenes video as well as bios for the heroes and the villains.
 
-###### Finally, we started cleaning up the project repo, and worked on the video presentation
+###### Finally, we started cleaning up the project repo including converting documents to markdown, and worked on the video presentation
 
 ---
 
