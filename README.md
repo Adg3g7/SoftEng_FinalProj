@@ -27,25 +27,25 @@ s
 
 ###### To begin the project, we started off listing and deciding on project ideas.
 
-[Top 5 project ideas](ideas.md) 
+###### [Top 5 project ideas](ideas.md) 
 
 ###### After choosing to do a trailer and website, we had to come up with an idea of what to make the project about. We decided on a superhero movie because it would tie the trailer and website together the best. After brainstorming we came up with using superheroes that have enhanced senses, but only one each.
 
 ###### From there we started setting the scene. Because we were making a trailer we had to have some idea as to what the original plot would look like. Once we knew what would potentially happen in the movie, we could make a promo for it. This process started with making some notes on what the characters would be like.
 
-[Character Descriptions](charactersDescription.md)
+###### [Character Descriptions](charactersDescription.md)
 
 ###### We continued planning what could happen in the movie we were making a trailer for by coming up with a short and generalized plot for the movie.
 
-[Plot Synopsis](plotLine.md)
+###### [Plot Synopsis](plotLine.md)
 
 ###### Once we had an idea what to make the trailer after we began work on the script of the trailer.
 
-[Alpha script](InitialScript.md)
+###### [Alpha script](InitialScript.md)
 
 ###### The script took many revisions before we settled on a finalized product and changed a bit during filming as well.
 
-[Final Script](FinalScript.md)
+###### Final Script](FinalScript.md)
 
 ---
 
@@ -57,7 +57,7 @@ s
 
 ###### Finally, we had to edit the footage into a trailer. Total editing time for the trailer was around 7 hours including some Photoshop work to. Video can be seen on the website or right below.
 
-[Super Senses trailer](https://www.youtube.com/watch?v=eR3EEEJBTiI)
+###### [Super Senses trailer](https://www.youtube.com/watch?v=eR3EEEJBTiI)
 
 ---
 
@@ -65,9 +65,9 @@ s
 
 ###### With remaining footage we decided to make a behind the scenes video and director's cut that we included to be used on the website. Total editing time took around 3 hours for the two videos. The behind the scenes video featured a look at unused footage and a bit into the process of filming edited to be comedic. Behind the scenes is on the website or can be viewed below. Also the director's cut which was just a quick comedic video to share with the actors themselves which we decided to throw onto the website. That video can also be seen on the website or down below.
 
-[Behind the scenes video](https://www.youtube.com/watch?v=9L1cMk3g_a8)
+###### [Behind the scenes video](https://www.youtube.com/watch?v=9L1cMk3g_a8)
 
-[Director's cut video](https://www.youtube.com/watch?v=PeIQsFkPAVA)
+###### [Director's cut video](https://www.youtube.com/watch?v=PeIQsFkPAVA)
 
 ###### Work then began on the website. Included in the website are the trailer, as well as both behind the scenes video as well as bios for the heroes and the villains. Website Html code can be viewed [here](WebsiteHTMLcode)
 
