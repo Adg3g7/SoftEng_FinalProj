@@ -59,6 +59,10 @@ s
 
 ###### [Characters in costumes](CharacterCostumes)
 
+###### [Pictures](Pictures)
+
+###### [Audio](soundsAndMusic)
+
 ###### Finally, we started cleaning up the project repo including converting documents to markdown, and worked on the video presentation
 
 ---
