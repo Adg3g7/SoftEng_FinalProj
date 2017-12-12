@@ -69,7 +69,9 @@ s
 
 ###### [Director's cut video](https://www.youtube.com/watch?v=PeIQsFkPAVA)
 
-###### Work then began on the website. Included in the website are the trailer, as well as both behind the scenes video as well as bios for the heroes and the villains. Website Html code can be viewed [here](WebsiteHTMLcode)
+###### Work then began on the website. Included in the website are the trailer, as well as both behind the scenes video as well as bios for the heroes and the villains. The website was written in HTML and includes CSS and JavaScript.
+
+###### [Website code files](WebsiteHTMLcode)
 
 ###### Media for the project can be viewed here:
 
